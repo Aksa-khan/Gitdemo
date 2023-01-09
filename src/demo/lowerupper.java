@@ -15,6 +15,9 @@ public class lowerupper {
 		System.out.println("Uppercase is: ");
 		for(int i = 0; i<strArry.length; i++) {
 			System.out.print(strArry[i]);
+			
+			System.out.println("changess22");
+		
 		}
 	}
 }
