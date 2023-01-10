@@ -9,6 +9,7 @@ class bike extends vehicle {
 		// TODO Auto-generated method stub
 		bike obj = new bike();
 		obj.run();
+		System.out.println("new changes");
 	}
 
 }
