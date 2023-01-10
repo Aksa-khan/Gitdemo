@@ -29,6 +29,7 @@ class maxSalary{
 			}
 		}
 		System.out.println("Max Slary is:" +maxSalary);
-		
+		System.out.println("Tester 1");
+		System.out.println("Tester 1");
 	}
 }
